@@ -13,9 +13,6 @@ header {
     align-items: center;
     box-shadow: 0 0 25px 0 black;
     font-family: sans-serif;
-}
-
-header * {
     display: inline;
 }
 
